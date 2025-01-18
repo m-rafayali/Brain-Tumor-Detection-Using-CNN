@@ -86,3 +86,38 @@ The dataset consists of MRI images classified into:
    ```bash
    git clone https://github.com/m-rafayali/Brain-Tumor-Detection-Using-CNN.git
    cd Brain-Tumor-Detection-Using-CNN
+
+## **Project Structure**
+Brain-Tumor-Detection-Using-CNN/
+├── data/                 # Dataset folder
+├── model/                # Trained model files
+├── notebooks/            # Jupyter notebooks for experiments
+├── src/                  # Source code
+├── main.py               # Main script for running the model
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+
+## **Future Enhancement**
+- Support for multi-class classification (e.g., glioma, meningioma).
+- Integration with mobile applications for real-time detection.
+- Improved preprocessing for noisy datasets.
+- Deployment on cloud platforms for scalability.
+
+## **Contributing**
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss your ideas.
+
+##**License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## **Contact**
+For any inquiries, reach out to:
+Muhammad Rafay Ali
+   - Email: m.rafayali@outlook.com
+   - GitHub: @m-rafayali
+
+## **Acknowledgments**
+   - Dataset provided by Kaggle.
+   - Thanks to TensorFlow and Keras communities for their tools and documentation.
+   - Special thanks to all contributors and collaborators.
+    
+**Disclaimer:** This project is for educational purposes only and is not intended for clinical use.
