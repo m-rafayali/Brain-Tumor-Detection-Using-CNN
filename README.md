@@ -1,6 +1,6 @@
 # **Brain Tumor Detection Using CNN**
 
-![Project Banner]([https://via.placeholder.com/1200x400.png?text=Brain+Tumor+Detection+Using+CNN](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-74419-9/MediaObjects/41598_2020_74419_Fig2_HTML.jpg))
+![Project Banner](https://www.csbj.org/cms/10.1016/j.csbj.2022.08.039/asset/88830f4d-7c3b-4644-bae1-b880a7ea4665/main.assets/ga1_lrg.jpg)
 
 ## **Overview**
 Brain tumors are one of the most critical medical conditions requiring accurate diagnosis for effective treatment. This project leverages the power of **Convolutional Neural Networks (CNN)** to detect brain tumors from MRI images. The objective is to automate and enhance the detection process, aiding healthcare professionals with quick and reliable results.
@@ -88,14 +88,15 @@ The dataset consists of MRI images classified into:
    cd Brain-Tumor-Detection-Using-CNN
 
 ## **Project Structure**
-Brain-Tumor-Detection-Using-CNN/
-├── data/                 # Dataset folder
-├── model/                # Trained model files
-├── notebooks/            # Jupyter notebooks for experiments
-├── src/                  # Source code
-├── main.py               # Main script for running the model
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+    ```bash
+    Brain-Tumor-Detection-Using-CNN/
+    ├── data/                 # Dataset folder
+    ├── model/                # Trained model files
+    ├── notebooks/            # Jupyter notebooks for experiments
+    ├── src/                  # Source code
+    ├── main.py               # Main script for running the model
+    ├── requirements.txt      # Python dependencies
+    └── README.md             # Project documentation
 
 ## **Future Enhancement**
 - Support for multi-class classification (e.g., glioma, meningioma).
