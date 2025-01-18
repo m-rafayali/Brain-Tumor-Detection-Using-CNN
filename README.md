@@ -1,7 +1,5 @@
 # **Brain Tumor Detection Using CNN**
 
-![Project Banner](https://www.csbj.org/cms/10.1016/j.csbj.2022.08.039/asset/88830f4d-7c3b-4644-bae1-b880a7ea4665/main.assets/ga1_lrg.jpg)
-
 ## **Overview**
 Brain tumors are one of the most critical medical conditions requiring accurate diagnosis for effective treatment. This project leverages the power of **Convolutional Neural Networks (CNN)** to detect brain tumors from MRI images. The objective is to automate and enhance the detection process, aiding healthcare professionals with quick and reliable results.
 
